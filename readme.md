@@ -21,8 +21,9 @@ WHEN the game is over
 THEN I can save my initials and score
 
 ## Screenshot
-
+![output screen](./assets/images/Capture.PNG)
 ## Github Link:
 https://github.com/Mosaleh-Egy/JavaScript-Coding-Quiz
 
 ## Live Link:
+https://mosaleh-egy.github.io/JavaScript-Coding-Quiz/
